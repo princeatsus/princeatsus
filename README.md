@@ -21,8 +21,7 @@ I'm currently learning, experimenting, building projects, and documenting my jou
 - [Student Dues Payment System](https://github.com/princeatsus/student-dues-payment-system)
 
 ### 🤝 Let's Connect
-- LinkedIn: [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/prince-elesi-842a55364/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1pukKq6ZTUKbRO0V%2Bx%2FW3w%3D%3D))
-
----
+- Portfolio: [princeelesi.vercel.app](https://princeelesi.vercel.app)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/prince-elesi-842a55364)
 
 *Learning. Building. Documenting. Growing.*
